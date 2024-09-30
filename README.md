@@ -14,7 +14,7 @@ npm -v
 
 2. **Clone the Repository**: 
 Next, clone the repository to your local machine:
-git clone https://github.com/your-username/your-vue-app.git
+git clone https://github.com/AllyKz/pokemon-app_Khaleeda.git
 
 3. **Install Dependencies**: 
 Install dependencies with `npm install`.
